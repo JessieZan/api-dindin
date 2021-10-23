@@ -1,0 +1,58 @@
+{
+  "transactions": [
+    {
+      "date": "2021-10-08T03:00:00.000Z",
+      "week_day": 5,
+      "description": "site",
+      "value": 1500,
+      "category": "projetos",
+      "type": "credit",
+      "id": 2
+    },
+    {
+      "date": "2021-10-01T03:00:00.000Z",
+      "week_day": 5,
+      "description": "internet",
+      "value": 150,
+      "category": "contas",
+      "type": "debit",
+      "id": 4
+    },
+    {
+      "date": "2021-10-12T18:50:31.555Z",
+      "week_day": 2,
+      "description": "pagamento",
+      "value": 150,
+      "category": "dividas natalia",
+      "type": "credit",
+      "id": 6
+    },
+    {
+      "date": "2021-10-16T03:00:00.000Z",
+      "week_day": 6,
+      "description": "soiejriuef",
+      "value": 150,
+      "category": "contas",
+      "type": "debit",
+      "id": 7
+    },
+    {
+      "date": "2021-10-18T17:16:18.395Z",
+      "week_day": 1,
+      "description": "bala",
+      "value": 150,
+      "category": "contas",
+      "type": "debit",
+      "id": 8
+    },
+    {
+      "date": "2021-10-18T17:16:29.513Z",
+      "week_day": 1,
+      "description": "salario",
+      "value": 1500,
+      "category": "projetos",
+      "type": "credit",
+      "id": 9
+    }
+  ]
+}
